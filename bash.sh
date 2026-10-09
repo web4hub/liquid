@@ -16,3 +16,6 @@ git add \
   tests/regression/server.insert_metadata.liq
 
 git commit -m "fix: validate streaming configuration and metadata handling"
+git clone https://github.com/savonet/ocaml-ffmpeg.git
+cd ocaml-ffmpeg
+opam pin add 

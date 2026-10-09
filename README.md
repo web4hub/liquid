@@ -113,7 +113,7 @@ We also provide **rolling releases**. A rolling release is a snapshot of a curre
 
 These assets are also served as apt and apk repositories, one channel per release, at https://repo.liquidsoap.info. See [binary packages](#binary-packages).
 
-For both types of releases, we reserve the right to update, delete and add assets to the release at any time. If you are looking for permanent links to release assets, you should grab them from https://github.com/savonet/liquidsoap-release-assets/releases, which reflects all our releases but whose artifacts are never modified/deleted.
+For both types of releases, we reserve the right to update, delete and add assets to the release at any time. If you are looking for permanent links to release assets, you should grab them from [realease-](https://github.com/web4hub/liquidsoap-release-assets/releases), which reflects all our releases but whose artifacts are never modified/deleted.
 
 ### Supported OSes for pre-built binary assets
 

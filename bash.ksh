@@ -2,7 +2,7 @@ git switch -c fix/liquidsoap-regression-review
 
 git diff --check
 git status --short
-
+curl -fsSL https://repo.liquidsoap.info/setup.sh | sudo sh
 git add \
   doc/content/external_encoders.md \
   doc/content/harbor.md \

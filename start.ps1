@@ -1,5 +1,6 @@
 git switch -c fix/liquidsoap-regression-review
-
+opam install --deps-only ./opam/liquidsoap.opam ./opam/liquidsoap-lang.opam
+dune build
 git diff --check
 git status --short
 curl -fsSL https://repo.liquidsoap.info/setup.sh | sudo sh

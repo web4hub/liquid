@@ -28,7 +28,7 @@ Copyright 2003-2026 Savonet team
 | Bug reports               | https://github.com/savonet/liquidsoap/issues                            |
 | User questions            | https://github.com/savonet/liquidsoap/discussions                       |
 | IRC (deprecated)          | #savonet on [irc.libera.chat](https://libera.chat/) (w/ discord bridge) |
-| Mailing list (deprecated) | savonet-users@lists.sourceforge.net                                     |
+| Mailing list (deprecated) |                                      |
 
 ## Installation and Building from Source
 

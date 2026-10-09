@@ -141,7 +141,18 @@ We support the last two major releases of FFmpeg. Currently, this means versions
 | Neovim      | [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter), [formatter.nvim](https://github.com/mhartington/formatter.nvim) |
 | Tree Sitter | [tree-sitter-liquidsoap](https://github.com/savonet/tree-sitter-liquidsoap)                                                            |
 | CodeMirror  | [codemirror-lang-liquidsoap](https://github.com/savonet/codemirror-lang-liquidsoap)                                                    |
-| Playground  | [https://www.liquidsoap.info/try/](https://www.liquidsoap.info/try/)                                                                   |
+| Playground  | [https://www.liquidsoap.info/try/](https://www.liquidsoap.info/try/)                              [2](http://icecast.org/ezstream/)
+
+[3](http://icecast.org/ices/)
+
+[4](http://www.darkice.org/)
+[5](http://www.rivendellaudio.org/)
+[6](https://spacial.com/)
+
+[7](https://www.azuracast.com/)
+[8](https://centova.com/)
+[9](https://www.radionomy.com/)
+[10](http://www.icecast.org/)                                     |
 
 ## Documentation
 
